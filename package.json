@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/input.css -o ./assets/core.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "lightgallery": "^2.7.2"
+  }
+}
